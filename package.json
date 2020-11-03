@@ -1,0 +1,17 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "Examples of Jest usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.js"
+  },
+  "author": "Aronpd",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  },
+  "dependencies": {
+    "jest-html-reporter": "^3.3.0"
+  }
+}
