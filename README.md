@@ -10,6 +10,6 @@
 `npm i --save-dev jest`
 
 
-- Jest HTLM Reporter
+- Jest HTML Reporter
 
 `npm i jest-html-reporter`
