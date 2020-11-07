@@ -16,6 +16,3 @@ const users = [
 
 // Export the data so it's available to Jest
 module.exports = users;
-
-// 3. What tests would you perform to verify login into app form with username/password.
-// Of those tests which would you automate, why? (edited)
